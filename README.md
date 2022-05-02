@@ -20,4 +20,4 @@ pdf"
 ```
 Workflow:
 
-	![](C:\Users\prane\Documents\Pranith\Stony Brook\CSE 523\Broadridge\textract flow\textract_api\final\workflow.png)
+	![](workflow.png)
