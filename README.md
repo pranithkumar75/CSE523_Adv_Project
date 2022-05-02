@@ -19,5 +19,5 @@ python extract_handwritten_text.py --document_type PUVC --file_name ".\PUVC\PUVC
 pdf"
 ```
 Workflow:
-
-	![](https://github.com/pranithkumar75/CSE523_Adv_Project/blob/main/workflow.png)
+![alt text](https://github.com/pranithkumar75/CSE523_Adv_Project/blob/main/workflow.png?raw=true)
+![alt text](workflow.png)
