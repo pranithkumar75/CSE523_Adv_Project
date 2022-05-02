@@ -19,4 +19,5 @@ python extract_handwritten_text.py --document_type PUVC --file_name ".\PUVC\PUVC
 pdf"
 ```
 Workflow:
+
 ![alt text](workflow.png)
