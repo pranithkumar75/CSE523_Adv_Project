@@ -20,4 +20,4 @@ pdf"
 ```
 Workflow:
 
-	![](workflow.png)
+	![](https://github.com/pranithkumar75/CSE523_Adv_Project/blob/main/workflow.png)
